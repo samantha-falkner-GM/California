@@ -1,0 +1,14 @@
+{
+name:
+{
+population: number,
+lat: number,
+long: number
+},
+name:
+{
+population: number,
+lat: number,
+long: number
+},
+}
