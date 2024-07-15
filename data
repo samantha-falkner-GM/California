@@ -4,11 +4,13 @@ name:
 population: number,
 lat: number,
 long: number
+type: title|lighthouse|both
 },
 name:
 {
 population: number,
 lat: number,
 long: number
+type: title|lighthouse|both
 },
 }
