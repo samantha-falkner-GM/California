@@ -5,6 +5,13 @@
         "long": -122.241638,
         "type": "titleI"
     },
+    "Child": {
+        "population": 8359,
+        "lat": 37.765205,
+        "long": -122.241638,
+        "type": "titleI"
+        "parentDistrict": "Alameda"
+    },
     "San Diego USD": {
         "population": 112790,
         "lat": 32.715736,
